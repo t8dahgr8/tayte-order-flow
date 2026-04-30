@@ -1,0 +1,10 @@
+data/
+__pycache__/
+*.pyc
+*.exe
+*.exp
+*.lib
+*.obj
+*.pkl
+.env*
+.venv/

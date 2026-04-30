@@ -97,7 +97,7 @@ for that overlap. The size of the gap is itself a result and is reported below.
 ## 4. Results
 
 **Deciles.** Mean forward return rises monotonically across all ten imbalance deciles at
-every horizon, with no reversals (`output/fig08_deciles.png`). At N = 100 the bottom
+every horizon, with no reversals (`fig08_deciles.png`). At N = 100 the bottom
 decile averages −1.259 bps and the top decile +1.002 bps, on ~62,400 observations each,
 with ±1.96 SE bands far narrower than the spacing between deciles.
 
